@@ -2,7 +2,7 @@ from alpha_vantage.timeseries import TimeSeries
 import pandas as pd
 
 # Your API key
-api_key = "F1WLM9U3E1Y2Y5DZ"
+api_key = "hidden"
 
 # Initialize TimeSeries object
 ts = TimeSeries(key=api_key, output_format="pandas")
